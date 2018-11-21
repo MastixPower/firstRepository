@@ -1,0 +1,3 @@
+C:/Users/MastixPower/Desktop/programming/firstRepository/cmake-build-debug/CMakeFiles/firstRepository.dir
+C:/Users/MastixPower/Desktop/programming/firstRepository/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MastixPower/Desktop/programming/firstRepository/cmake-build-debug/CMakeFiles/rebuild_cache.dir
